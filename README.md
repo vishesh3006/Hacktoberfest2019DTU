@@ -1,2 +1,2 @@
 # Hacktoberfest2019DTU
-For promotion of open source
+For promotion of open source projects.
